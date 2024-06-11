@@ -187,14 +187,15 @@ body {
 
     .intro {
         padding-left: 17%;
+        font-size: 10px;
     }
 
     .main-text h1 {
-      font-size: 2rem; /* Adjust as needed */
+      font-size: 1rem; /* Adjust as needed */
     }
     
     .main-text p {
-      font-size: 1rem; /* Adjust as needed */
+      font-size: 2rem; /* Adjust as needed */
     }
   }
   
